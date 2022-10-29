@@ -66,5 +66,17 @@ const ap = new APlayer({
          url: "source/invisible_beauty.mp3",
          cover: "https://images.pexels.com/photos/1735240/pexels-photo-1735240.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       },
+            {
+         name: "Liquid Time",
+         artist: "Artist Name",
+         url: "source/liquid_time.mp3",
+         cover: "https://images.pexels.com/photos/1699161/pexels-photo-1699161.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      },
+            {
+         name: "Invisible Beauty", // SONG NAME
+         artist: "Artist Name", //ARTIST NAME
+         url: "source/invisible_beauty.mp3", // PATH NAME AND SONG URL
+         cover: "https://images.pexels.com/photos/2272854/pexels-photo-2272854.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", // COVER IMAGE
+      },
    ],
 });
